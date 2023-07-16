@@ -1,0 +1,4 @@
+yarn test
+
+yarn hardhat deploy --network testchainastar
+yarn hardhat deploy --network testchainmoonbeam
